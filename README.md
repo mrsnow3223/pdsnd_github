@@ -11,6 +11,7 @@ Bikeshare
 
 ### Description
 Allows one to analyze bike share data for desired months and days of the week. The data is provided for Chicago, New Yor City, and Washington.
+-Available months: january through june
 
 ### Files used
 chicago.csv
